@@ -121,6 +121,8 @@ bestsellers removing null values 3_8 (Working with DataFrame)
    - [x] title() - for making title in the charts
    - [x] show() - displaying the charts 
 
-  
+  ---
+ 
+ © 2022 Donard Azura
   
 
