@@ -68,9 +68,9 @@ Module 4 bestsellers Coding Exercises (Data Analysis in the Real World)
 
    </detals>
   
-<!--  </details> -->
-<!--  
- </details> -->
+ </details>
+ 
+ </details>
  
   ---
   
@@ -121,8 +121,7 @@ bestsellers removing null values 3_8 (Working with DataFrame)
    - [x] title() - for making title in the charts
    - [x] show() - displaying the charts 
 
-  ---
- 
- © 2022 Donard Azura
+---
+<p>&copy; 2022 Donard Azura</p>
   
 
