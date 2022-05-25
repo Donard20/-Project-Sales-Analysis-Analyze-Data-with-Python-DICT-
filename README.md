@@ -17,7 +17,7 @@
 
 ## 🔥 Aim for this lesson
 
-> Using a real world data, I am going to cleaned the data and analyze what my data needs to be answered and using my knowledge that I learned in Python. 
+> Using a real world data, I am going to cleaned the data and analyze what my data needs to be answered using what I learned in Python. 
  
 
 ---
